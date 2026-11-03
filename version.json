@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-11-03 17:45:33",
+  "download_url": "https://github.com/adamjung850/drift-setup-doctor/releases/download/v1.0.0/DriftSetupDoctor_update_v1.0.0.zip",
+  "sha256": "9f755dfd069746c4e9047ebcd338ed8172b2b4341b2cb5408648b26c09e9a2e1",
+  "changelog": "Aktualizacja stabilności i optymalizacja modułów telemetrycznych.",
+  "is_critical": false,
+  "min_version_required": "1.0.0",
+  "file_size_bytes": 143724773
+}
